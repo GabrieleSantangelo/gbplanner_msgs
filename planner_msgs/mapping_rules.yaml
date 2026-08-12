@@ -123,3 +123,8 @@
   ros1_service_name: 'planner_opening_approval'
   ros2_package_name: 'planner_msgs'
   ros2_service_name: 'PlannerOpeningApproval'
+-
+  ros1_package_name: 'planner_msgs'
+  ros1_service_name: 'planner_get_frontiers'
+  ros2_package_name: 'planner_msgs'
+  ros2_service_name: 'PlannerGetFrontiers'
